@@ -1,0 +1,22 @@
+{"compile":[
+],
+"link":[
+"/Users/antonin/exercism/nim/hello-world/nimcache/helloworld_test.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_system.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_unittest.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_macros.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_strutils.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_streams.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_times.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_parseutils.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_math.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_algorithm.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_os.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_posix.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_ospaths.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_terminal.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/stdlib_termios.o",
+"/Users/antonin/exercism/nim/hello-world/nimcache/helloworld.o"
+],
+"linkcmd": "clang   -o /Users/antonin/exercism/nim/hello-world/helloworld_test  /Users/antonin/exercism/nim/hello-world/nimcache/helloworld_test.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_system.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_unittest.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_macros.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_strutils.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_streams.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_times.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_parseutils.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_math.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_algorithm.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_os.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_posix.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_ospaths.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_terminal.o /Users/antonin/exercism/nim/hello-world/nimcache/stdlib_termios.o /Users/antonin/exercism/nim/hello-world/nimcache/helloworld.o  -lm   -ldl"
+}
