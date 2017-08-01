@@ -1,0 +1,24 @@
+{"compile":[
+["/Users/antonin/exercism/nim/triangle/nimcache/triangle.c", "clang -c  -w  -I/usr/local/nim-0.17.0/lib -o /Users/antonin/exercism/nim/triangle/nimcache/triangle.o /Users/antonin/exercism/nim/triangle/nimcache/triangle.c"],
+],
+"link":[
+"/Users/antonin/exercism/nim/triangle/nimcache/triangle_test.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_system.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_unittest.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_macros.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_strutils.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_streams.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_times.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_parseutils.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_math.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_algorithm.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_os.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_posix.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_ospaths.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_terminal.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_termios.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/triangle.o",
+"/Users/antonin/exercism/nim/triangle/nimcache/stdlib_sequtils.o"
+],
+"linkcmd": "clang   -o /Users/antonin/exercism/nim/triangle/triangle_test  /Users/antonin/exercism/nim/triangle/nimcache/triangle_test.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_system.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_unittest.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_macros.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_strutils.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_streams.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_times.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_parseutils.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_math.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_algorithm.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_os.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_posix.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_ospaths.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_terminal.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_termios.o /Users/antonin/exercism/nim/triangle/nimcache/triangle.o /Users/antonin/exercism/nim/triangle/nimcache/stdlib_sequtils.o  -lm   -ldl"
+}
